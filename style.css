@@ -1,3 +1,25 @@
-h1 {
-    color: red;
+.container {
+    width: 1440px;
+    margin: 0 auto;
+}
+
+.navigation {
+    display: flex;
+    justify-content: space-around;
+    align-items:  center;
+    background-color:  #EF6464;
+}
+
+nav a {
+    color: #000;
+    text-decoration: none;
+    padding: 1.5em;
+}
+
+nav li  {
+    list-style: none;
+}
+
+nav ul {
+    display: flex;
 }
