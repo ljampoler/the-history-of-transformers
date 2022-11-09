@@ -23,3 +23,22 @@ nav li  {
 nav ul {
     display: flex;
 }
+
+.hero {
+    background: url(images/hero-image.jpg);
+    height: 75vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content-section {
+    display: flex;
+    gap: 1em;
+}
+
+.characters-title {
+    background: #EF6464;
+    text-align: center;
+    padding: .5em;
+}
