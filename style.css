@@ -42,3 +42,26 @@ nav ul {
     text-align: center;
     padding: .5em;
 }
+
+footer {
+    background: #7C2A89;
+    height: 15vh;
+    display: flex;
+    justify-content: space-between;
+    padding: 1em 2em;
+    text-align: center;
+}
+
+
+footer input {
+    padding: .5em;
+    margin: 5px 0;
+}
+
+footer button {
+    padding: .5em;
+    border: none;
+}
+
+
+
