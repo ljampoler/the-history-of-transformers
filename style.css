@@ -34,6 +34,7 @@ nav ul {
 
 .content-section {
     display: flex;
+    align-items: center;
     gap: 1em;
 }
 
@@ -42,6 +43,7 @@ nav ul {
     text-align: center;
     padding: .5em;
 }
+
 
 footer {
     background: #7C2A89;
@@ -62,6 +64,3 @@ footer button {
     padding: .5em;
     border: none;
 }
-
-
-
