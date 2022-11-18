@@ -1,3 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Tajawal&display=swap');
+body {font-family: 'Tajawal', sans-serif;
+}
+
+h1,h2 {font-family: 'Lato', sans-serif;
+font-weight: 700;}
+
 .container {
     width: 1440px;
     margin: 0 auto;
@@ -42,6 +49,7 @@ nav ul {
     background: #EF6464;
     text-align: center;
     padding: .5em;
+    margin: 0 auto;
 }
 
 
@@ -52,6 +60,7 @@ footer {
     justify-content: space-between;
     padding: 1em 2em;
     text-align: center;
+    margin: 0 auto;
 }
 
 
