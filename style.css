@@ -3,11 +3,17 @@ body {font-family: 'Tajawal', sans-serif;
 }
 
 h1,h2 {font-family: 'Lato', sans-serif;
-font-weight: 700;}
+font-weight: 700;
+}
+
+.logo {
+    margin-top: 10px;
+}
 
 .container {
     width: 1440px;
     margin: 0 auto;
+    border: #EF6464 3px solid;
 }
 
 .navigation {
@@ -42,7 +48,10 @@ nav ul {
 .content-section {
     display: flex;
     align-items: center;
-    gap: 1em;
+}
+
+.content-section-text {
+    padding: 2em;
 }
 
 .characters-title {
